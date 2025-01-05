@@ -1,0 +1,5 @@
+## Interface: 11505
+## Title: Player Kill Stats
+## Author: Severussnipe, Hkfarmer <Redridge Police>
+## Notes: Counts enemy player kills per session and calculates kills per hour.
+PlayerKillStats.lua
